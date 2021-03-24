@@ -21,7 +21,7 @@ Tomé distintos MOOC's tanto en edX como en Coursera, relacionados con Python y 
 
 Dentro de las librerías que manejo están:
 
-Pandas: He analizado, limpiado, filtrado y rellenado bases de datos estructurados, transformaciones de variables categóricas a variables numéricas enterizadas utilizando dummies o categorical, entre otros.
+Pandas: He analizado, limpiado, filtrado y rellenado bases de datos estructurados, transformado variables categóricas a numéricas enterizadas utilizando dummies o categorical, entre otros.
 
 Numpy: Para realizar operaciones matemáticas con arrays u obtener rangos.
 
